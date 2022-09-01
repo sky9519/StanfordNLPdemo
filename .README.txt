@@ -13,6 +13,7 @@ DKPro Core was principally developed by Richard Eckart de Castilho at the Ubiqui
 
 For Task 2, I used HTML and JavaScript to take user input using the form element and perform basic validation using Javascript to not allow submissions.
 Currently, my backend is not connected to the frontend but I will connect both of them using RESTful API soon.
+https://github.com/sky9519/StanfordNLPdemo/blob/main/index.html is the index file for the webpage.
 
 
 Thanks!
