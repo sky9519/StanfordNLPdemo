@@ -1,0 +1,19 @@
+Public Git repo created for the coding tasks required as part of application for GRA position under Prof. Leroy.
+
+
+https://github.com/sky9519/StanfordNLPdemo/blob/main/my-app/src/main/java/com/mycompany/app/App.java is the main java file used to perform the tasks required.
+I studied and used guidance from various sources to implement the NLP solution since I didn't have prior experience with NLP.
+For Task 1: Using StanfordNLP to print out the number of lines, characters and nouns in a txt file, I used DKPro Core.
+
+About DKPro Core:
+DKPro Core is a collection of NLP components, wrapped as UIMA components. 
+It includes the Stanford CoreNLP components, and there is a tutorial on how to use them in the DKPro Core documentation. 
+DKPro Core is part of the DKPro community. It is well-maintained and our recommended way of using Stanford CoreNLP within UIMA. 
+DKPro Core was principally developed by Richard Eckart de Castilho at the Ubiquitous Processing Lab (UKP) at the Technische Universität Darmstadt.
+
+For Task 2, I used HTML and JavaScript to take user input using the form element and perform basic validation using Javascript to not allow submissions.
+Currently, my backend is not connected to the frontend but I will connect both of them using RESTful API soon.
+
+
+Thanks!
+
